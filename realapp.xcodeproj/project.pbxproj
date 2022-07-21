@@ -15,6 +15,8 @@
 		216AB7AA28895D0D00DDC6EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 216AB7A828895D0D00DDC6EA /* LaunchScreen.storyboard */; };
 		216AB7B528895D0E00DDC6EA /* realappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216AB7B428895D0E00DDC6EA /* realappTests.swift */; };
 		216AB7C028895D0E00DDC6EA /* realappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216AB7BF28895D0E00DDC6EA /* realappUITests.swift */; };
+		216AB7D028895F8B00DDC6EA /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 216AB7CF28895F8B00DDC6EA /* Util.swift */; };
+		216AB7D228896F8000DDC6EA /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 216AB7D128896F8000DDC6EA /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		216AB7BB28895D0E00DDC6EA /* realappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = realappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		216AB7BF28895D0E00DDC6EA /* realappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = realappUITests.swift; sourceTree = "<group>"; };
 		216AB7C128895D0E00DDC6EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		216AB7CF28895F8B00DDC6EA /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
+		216AB7D128896F8000DDC6EA /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +109,9 @@
 				216AB7A328895D0C00DDC6EA /* Main.storyboard */,
 				216AB7A628895D0D00DDC6EA /* Assets.xcassets */,
 				216AB7A828895D0D00DDC6EA /* LaunchScreen.storyboard */,
+				216AB7D128896F8000DDC6EA /* 1.png */,
 				216AB7AB28895D0D00DDC6EA /* Info.plist */,
+				216AB7CF28895F8B00DDC6EA /* Util.swift */,
 			);
 			path = realapp;
 			sourceTree = "<group>";
@@ -234,6 +240,7 @@
 				216AB7AA28895D0D00DDC6EA /* LaunchScreen.storyboard in Resources */,
 				216AB7A728895D0D00DDC6EA /* Assets.xcassets in Resources */,
 				216AB7A528895D0C00DDC6EA /* Main.storyboard in Resources */,
+				216AB7D228896F8000DDC6EA /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +268,7 @@
 				216AB7A228895D0C00DDC6EA /* ViewController.swift in Sources */,
 				216AB79E28895D0C00DDC6EA /* AppDelegate.swift in Sources */,
 				216AB7A028895D0C00DDC6EA /* SceneDelegate.swift in Sources */,
+				216AB7D028895F8B00DDC6EA /* Util.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
